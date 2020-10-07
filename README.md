@@ -1,8 +1,6 @@
 # macOS Catalina 10.15.X
 :bangbang: This is an unfinished project! Use at your own risk! I am not responsible to any issue caused by this repo :bangbang:
-## Table of Contents
-- [macOS Catalina 10.15.X](#macos-catalina-1015x)
-  - [Table of Contents](#table-of-contents)
+
   - [Info](#info)
   - [Versions](#versions)
   - [Working](#working)
@@ -33,15 +31,15 @@ Parts|Type|Links|
 - WhateverGreen 1.4.3
 
 ## Working
-- :white_check_mark:    FireVault
-- :white_check_mark:    DualBoot (Windows 10 v2004)
-- :white_check_mark:    Audio (Realtek® ALC1200 codec)
-- :white_check_mark:    Front Audio
-- :white_check_mark:    Ethernet (Intel® Ethernet Connection I219V12)
-- :white_check_mark:    All USB (not all tested, front USB works flawlessly)
-- :white_check_mark:    HDMI/DP
-- :white_check_mark:    iMessage
-- :white_check_mark:    SideCar
+- :white_check_mark: FireVault
+- :white_check_mark: DualBoot (Windows 10 v2004)
+- :white_check_mark: Audio (Realtek® ALC1200 codec)
+- :white_check_mark: Front Audio
+- :white_check_mark: Ethernet (Intel® Ethernet Connection I219V12)
+- :white_check_mark: All USB (not all tested, front USB works flawlessly)
+- :white_check_mark: HDMI/DP
+- :white_check_mark: iMessage
+- :white_check_mark: SideCar
 
 ## Not working
 - :x: wake from sleep
@@ -60,8 +58,8 @@ Parts|Type|Links|
 
 ## Change:
 Change the following *[REDACTED]* parameters in [config.plist](/EFI/OC/config.plist) to your properly generated values:
-- [ ] MLB
-- [ ] ROM
-- [ ] SystemProductName
-- [ ] SystemSerialNumber
-- [ ] SystemUUID
+- MLB
+- ROM
+- SystemProductName
+- SystemSerialNumber
+- SystemUUID
