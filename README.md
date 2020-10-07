@@ -1,5 +1,5 @@
 # macOS Catalina 10.15.X
-
+:bangbang: This is an unfinished project! Use at your own risk! I am not responsible to any issue caused by this repo :bangbang:
 ## Table of Contents
 - [macOS Catalina 10.15.X](#macos-catalina-1015x)
   - [Table of Contents](#table-of-contents)
