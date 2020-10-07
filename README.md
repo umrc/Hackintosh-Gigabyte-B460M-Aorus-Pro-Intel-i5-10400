@@ -32,16 +32,15 @@ Parts|Type|Links|
 - WhateverGreen 1.4.3
 
 ## Working
-- 
-- :white_check_mark: FireVault
-- :white_check_mark: DualBoot (Windows 10 v2004)
-- :white_check_mark: Audio (Realtek® ALC1200 codec)
-- :white_check_mark: Front Audio
-- :white_check_mark: Ethernet (Intel® Ethernet Connection I219V12)
-- :white_check_mark: All USB (not all tested, front USB works flawlessly)
-- :white_check_mark: HDMI/DP
-- :white_check_mark: iMessage
-- :white_check_mark: SideCar
+- :white_check_mark:    FireVault
+- :white_check_mark:    DualBoot (Windows 10 v2004)
+- :white_check_mark:    Audio (Realtek® ALC1200 codec)
+- :white_check_mark:    Front Audio
+- :white_check_mark:    Ethernet (Intel® Ethernet Connection I219V12)
+- :white_check_mark:    All USB (not all tested, front USB works flawlessly)
+- :white_check_mark:    HDMI/DP
+- :white_check_mark:    iMessage
+- :white_check_mark:    SideCar
 
 ## Not working
 - :x: wake from sleep
