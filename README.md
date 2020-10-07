@@ -49,7 +49,7 @@ Parts|Type|Links|
 ![about](/images/about.png "About") 
 ![memory](/images/memory.png "Memory") 
 ![neofetch](/images/neofetch.png "neofetch") 
-![geekbench](/images/geekbench-device "Geekbench") 
+![geekbench](/images/geekbench-device.png "Geekbench") 
 
 ## Useful tools:
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
