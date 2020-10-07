@@ -33,18 +33,18 @@ Parts|Type|Links|
 
 ## Working
 - 
-- ✅ FireVault
-- ✅ DualBoot (Windows 10 v2004)
-- ✅ Audio (Realtek® ALC1200 codec)
-- ✅ Front Audio
-- ✅ Ethernet (Intel® Ethernet Connection I219V12)
-- ✅ All USB (not all tested, front USB works flawlessly)
-- ✅ HDMI/DP
-- ✅ iMessage
-- ✅ SideCar
+- :white_check_mark: FireVault
+- :white_check_mark: DualBoot (Windows 10 v2004)
+- :white_check_mark: Audio (Realtek® ALC1200 codec)
+- :white_check_mark: Front Audio
+- :white_check_mark: Ethernet (Intel® Ethernet Connection I219V12)
+- :white_check_mark: All USB (not all tested, front USB works flawlessly)
+- :white_check_mark: HDMI/DP
+- :white_check_mark: iMessage
+- :white_check_mark: SideCar
 
 ## Not working
-- ❌ wake from sleep
+- :x: wake from sleep
 ## Screenshots
 ![about](/images/about.png "About") 
 ![memory](/images/memory.png "Memory") 
