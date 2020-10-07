@@ -1,8 +1,8 @@
-# Hackintosh-Gigabyte-B460M-Aorus-Pro-Intel-i5-10400
- Successful Hackintosh build on a custom PC
+# macOS Catalina 10.16.X
+ Successful Hackintosh build on a custom PC (currently 10.15.7 19H2)
 
 ## Table of Contents:
-- [Hackintosh-Gigabyte-B460M-Aorus-Pro-Intel-i5-10400](#hackintosh-gigabyte-b460m-aorus-pro-intel-i5-10400)
+- [macOS Catalina 10.16.X](#macos-catalina-1016x)
   - [Table of Contents:](#table-of-contents)
   - [Info](#info)
   - [Versions](#versions)
