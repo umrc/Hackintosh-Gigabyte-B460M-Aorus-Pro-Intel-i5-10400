@@ -19,7 +19,7 @@ Parts|Type|Links|
 **Motherboard**|Gigabyte B460M Aorus Pro|[Link](https://www.gigabyte.com/Motherboard/B460M-AORUS-PRO-rev-10#kf)
 **CPU**|Intel i5 10400|[Link](https://ark.intel.com/content/www/us/en/ark/products/199271/intel-core-i5-10400-processor-12m-cache-up-to-4-30-ghz.html)
 **RAM**|GSkills Aegis DDR4-3000MHz 1x16GB |[Link](https://www.gskill.com/product/165/185/1535968303/F4-3000C16S-16GISBAegis-DDR4DDR4-3000MHz-CL16-18-18-38-1.35V16GB-(1x16GB))
-**SSD**||[Link]()|
+**SSD**|NVMe TOSHIBA THNSN51T02DU7 1024GB||
 **PSU**|FSP HyperM 700W|[Link]()
 
 ## Versions
