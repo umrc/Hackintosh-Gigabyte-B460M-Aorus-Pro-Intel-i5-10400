@@ -46,10 +46,10 @@ Parts|Type|Links|
 ## Not working
 - wake from sleep
 ## Screenshots
-<center>![about](/images/about.png "About")</center>
-<center>![about](/images/memory.png "About")</center>
-<center>![about](/images/neofetch.png "About")</center>
-<center>![about](/images/geekbench-device "About")</center>
+<center> ![about](/images/about.png "About") </center>
+<center> ![about](/images/memory.png "Memory") </center>
+<center> ![about](/images/neofetch.png "neofetch") </center>
+<center> ![about](/images/geekbench-device "Geekbench") </center>
 
 ## Useful tools:
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
