@@ -1,8 +1,8 @@
-# macOS Catalina 10.16.X
+# macOS Catalina 10.15.X
  Successful Hackintosh build on a custom PC (currently 10.15.7 19H2)
 
 ## Table of Contents:
-- [macOS Catalina 10.16.X](#macos-catalina-1016x)
+- [macOS Catalina 10.15.X](#macos-catalina-1015x)
   - [Table of Contents:](#table-of-contents)
   - [Info](#info)
   - [Versions](#versions)
@@ -33,18 +33,18 @@ Parts|Type|Links|
 
 ## Working
 - 
-- FireVault
-- DualBoot (Windows 10 v2004)
-- Audio (Realtek® ALC1200 codec)
-- Front Audio
-- Ethernet (Intel® Ethernet Connection I219V12)
-- All USB (not all tested, front USB works flawlessly)
-- HDMI/DP
-- iMessage
-- SideCar
+- ✅ FireVault
+- ✅ DualBoot (Windows 10 v2004)
+- ✅ Audio (Realtek® ALC1200 codec)
+- ✅ Front Audio
+- ✅ Ethernet (Intel® Ethernet Connection I219V12)
+- ✅ All USB (not all tested, front USB works flawlessly)
+- ✅ HDMI/DP
+- ✅ iMessage
+- ✅ SideCar
 
 ## Not working
-- wake from sleep
+- ❌ wake from sleep
 ## Screenshots
 ![about](/images/about.png "About") 
 ![memory](/images/memory.png "Memory") 
@@ -59,4 +59,9 @@ Parts|Type|Links|
 - [ProperTree](https://github.com/corpnewt/ProperTree)
 
 ## Change:
-Please change MLB, SystemSerialNumber, SystemUUID
+Change the following *[REDACTED]* parameters in [config.plist](/EFI/OC/config.plist) to your properly generated values:
+- [ ] MLB
+- [ ] ROM
+- [ ] SystemProductName
+- [ ] SystemSerialNumber
+- [ ] SystemUUID
