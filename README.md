@@ -47,7 +47,7 @@ Parts|Type|Links|
 - wake from sleep
 ## Screenshots
 
-![text](<branch macOS-Catalina-10.05.X>/images/about.png?raw=true "About")
+![about](/images/about.png "About")
 
 ## Useful tools:
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
