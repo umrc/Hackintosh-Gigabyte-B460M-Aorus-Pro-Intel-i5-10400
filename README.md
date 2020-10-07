@@ -13,12 +13,12 @@
   - [Change:](#change)
 
 ## Info
-Parts | Type | Links |
+**Parts** | **Type** | **Links** |
 -|-|-|
-Motherboard|Gigabyte B460M Aorus Pro|www.
-CPU|Intel i5 10400|www.
-RAM|GSkills 16 GB 3000 MHZ|www.
-PSU|
+**Motherboard**|Gigabyte B460M Aorus Pro|www.
+**CPU**|Intel i5 10400|www.
+**RAM**|GSkills 16 GB 3000 MHZ|www.
+**PSU**|
 ## Versions
 - AppleALC 1.5.3
 - IntelMausiEthernet 2.5.1d1
