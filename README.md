@@ -7,7 +7,7 @@
   - [Not working](#not-working)
   - [Screenshots](#screenshots)
   - [Useful tools](#useful-tools)
-  - [Change:](#change)
+  - [Change](#change)
 
 ## Info
 
@@ -56,7 +56,7 @@ Parts|Type|Links|
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 - [ProperTree](https://github.com/corpnewt/ProperTree)
 
-## Change:
+## Change
 Change the following *[REDACTED]* parameters in [config.plist](/EFI/OC/config.plist) to your properly generated values:
 - MLB
 - ROM
