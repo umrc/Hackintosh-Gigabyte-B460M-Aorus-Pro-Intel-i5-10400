@@ -1,7 +1,9 @@
 # Hackintosh-Gigabyte-B460M-Aorus-Pro-Intel-i5-10400
  Successful Hackintosh build on a custom PC
 
+## Table of Contents:
 - [Hackintosh-Gigabyte-B460M-Aorus-Pro-Intel-i5-10400](#hackintosh-gigabyte-b460m-aorus-pro-intel-i5-10400)
+  - [Table of Contents:](#table-of-contents)
   - [Info](#info)
   - [Versions](#versions)
   - [Working](#working)
@@ -11,10 +13,12 @@
   - [Change:](#change)
 
 ## Info
-Motherboard Gigabyte B460M Aorus Pro    www.
-CPU Intel i5 10400  www.
-RAM GSkills 16 GB 3000 MHZ  www.
-
+Parts | Type | Links |
+-|-|-|
+Motherboard|Gigabyte B460M Aorus Pro|www.
+CPU|Intel i5 10400|www.
+RAM|GSkills 16 GB 3000 MHZ|www.
+PSU|
 ## Versions
 - AppleALC 1.5.3
 - IntelMausiEthernet 2.5.1d1
