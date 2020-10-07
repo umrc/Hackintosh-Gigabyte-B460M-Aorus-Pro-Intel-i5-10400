@@ -1,18 +1,19 @@
 # macOS Catalina 10.15.X
- Successful Hackintosh build on a custom PC (currently 10.15.7 19H2)
 
-## Table of Contents:
+## Table of Contents
 - [macOS Catalina 10.15.X](#macos-catalina-1015x)
-  - [Table of Contents:](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Info](#info)
   - [Versions](#versions)
   - [Working](#working)
   - [Not working](#not-working)
   - [Screenshots](#screenshots)
-  - [Useful tools:](#useful-tools)
+  - [Useful tools](#useful-tools)
   - [Change:](#change)
 
 ## Info
+
+ Successful Hackintosh build on a custom PC (currently 10.15.7 19H2). iGPU only, if you need a graphics buy AMD.
 
 Parts|Type|Links|
 --:|:--|:--|
@@ -50,7 +51,7 @@ Parts|Type|Links|
 ![neofetch](/images/neofetch.png "neofetch") 
 ![geekbench](/images/geekbench-device.png "Geekbench") 
 
-## Useful tools:
+## Useful tools
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [Hackintool](https://github.com/headkaze/Hackintool)
 - [MLB generator](https://gist.github.com/graphis/688e2caa200d2b4182f7b9cc20a14731)
