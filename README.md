@@ -16,11 +16,14 @@
 
 Parts|Type|Links|
 --:|:--|:--|
-**Motherboard**|Gigabyte B460M Aorus Pro|www.
-**CPU**|Intel i5 10400|www.
-**RAM**|GSkills 16 GB 3000 MHZ|www.
-**PSU**|
+**Motherboard**|Gigabyte B460M Aorus Pro|[Link](https://www.gigabyte.com/Motherboard/B460M-AORUS-PRO-rev-10#kf)
+**CPU**|Intel i5 10400|[Link](https://ark.intel.com/content/www/us/en/ark/products/199271/intel-core-i5-10400-processor-12m-cache-up-to-4-30-ghz.html)
+**RAM**|GSkills Aegis DDR4-3000MHz 1x16GB |[Link](https://www.gskill.com/product/165/185/1535968303/F4-3000C16S-16GISBAegis-DDR4DDR4-3000MHz-CL16-18-18-38-1.35V16GB-(1x16GB))
+**SSD**||[Link]()|
+**PSU**|FSP HyperM 700W|[Link]()
+
 ## Versions
+- BIOS F3
 - AppleALC 1.5.3
 - IntelMausiEthernet 2.5.1d1
 - Lilu 1.4.8
@@ -29,6 +32,16 @@ Parts|Type|Links|
 - WhateverGreen 1.4.3
 
 ## Working
+- 
+- FireVault
+- DualBoot (Windows 10 v2004)
+- Audio (Realtek® ALC1200 codec)
+- Front Audio
+- Ethernet (Intel® Ethernet Connection I219V12)
+- All USB (not all tested, front USB works flawlessly)
+- HDMI/DP
+- iMessage
+- SideCar
 
 ## Not working
 - wake from sleep
@@ -42,3 +55,4 @@ Parts|Type|Links|
 - [ProperTree](https://github.com/corpnewt/ProperTree)
 
 ## Change:
+Please change MLB, SystemSerialNumber, SystemUUID
