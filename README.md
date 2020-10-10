@@ -26,7 +26,7 @@ Parts|Type|Links|
 - AppleALC 1.5.3
 - IntelMausiEthernet 2.5.1d1
 - Lilu 1.4.8
-- OpenCore 0.61
+- OpenCore 0.6.2
 - VirtualSMC 1.1.7
 - WhateverGreen 1.4.3
 
@@ -55,6 +55,7 @@ Parts|Type|Links|
 - [MLB generator](https://gist.github.com/graphis/688e2caa200d2b4182f7b9cc20a14731)
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 - [ProperTree](https://github.com/corpnewt/ProperTree)
+- [OCConfigCompare](https://github.com/corpnewt/OCConfigCompare)
 
 ## Change
 Change the following *[REDACTED]* parameters in [config.plist](/EFI/OC/config.plist) to your properly generated values:
