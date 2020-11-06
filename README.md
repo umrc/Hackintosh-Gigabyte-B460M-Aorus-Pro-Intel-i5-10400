@@ -23,12 +23,12 @@ Parts|Type|Links|
 
 ## Versions
 - BIOS F3
-- AppleALC 1.5.3
-- IntelMausiEthernet 2.5.1d1
-- Lilu 1.4.8
-- OpenCore 0.6.2
-- VirtualSMC 1.1.7
-- WhateverGreen 1.4.3
+- AppleALC 1.5.4
+- IntelMausiEthernet 2.5.3d1
+- Lilu 1.4.9
+- OpenCore 0.6.3
+- VirtualSMC 1.1.8
+- WhateverGreen 1.4.4
 
 ## Working
 - :white_check_mark: FireVault
@@ -43,6 +43,7 @@ Parts|Type|Links|
 
 ## Not working
 - :x: wake from sleep
+- :x: VirtualBox wirtualization (no idea?)
 ## Screenshots
 ![about](/images/about.png "About") 
 ![memory](/images/memory.png "Memory") 
