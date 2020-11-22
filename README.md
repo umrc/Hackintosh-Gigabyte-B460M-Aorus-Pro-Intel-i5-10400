@@ -31,7 +31,7 @@ Parts|Type|Links|
 - WhateverGreen 1.4.4
 
 ## Working
-- :white_check_mark: FireVault
+- :white_check_mark: FileVault
 - :white_check_mark: DualBoot (Windows 10 v2004)
 - :white_check_mark: Audio (Realtek® ALC1200 codec)
 - :white_check_mark: Front Audio
