@@ -22,7 +22,7 @@ Parts|Type|Links|
 **PSU**|FSP HyperM 700W|[Link](https://www.fsp-europe.com/hyper-m-500600700w/)
 
 ## Versions
-- BIOS F4
+- BIOS F5b
 - AppleALC 1.5.5
 - IntelMausiEthernet 2.5.3d1
 - Lilu 1.5.0
