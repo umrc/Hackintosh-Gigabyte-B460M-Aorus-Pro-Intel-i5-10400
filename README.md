@@ -43,7 +43,7 @@ Parts|Type|Links|
 
 ## Not working
 - :x: wake from sleep
-- :x: VirtualBox wirtualization (no idea, maybe CFG Lock disable needed?)
+- :x: VirtualBox virtualization (no idea, VMware works fine)
 ## Screenshots
 ![about](/images/about.png "About") 
 ![memory](/images/memory.png "Memory") 
