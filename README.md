@@ -23,12 +23,12 @@ Parts|Type|Links|
 
 ## Versions
 - BIOS F5b
-- AppleALC 1.5.7
+- AppleALC 1.5.8
 - IntelMausiEthernet 2.5.3d1
 - Lilu 1.5.1
-- OpenCore 0.6.6
-- VirtualSMC 1.2.0
-- WhateverGreen 1.4.7
+- OpenCore 0.6.7
+- VirtualSMC 1.2.1
+- WhateverGreen 1.4.8
 
 ## Working
 - :white_check_mark: FileVault
