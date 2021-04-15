@@ -11,7 +11,7 @@
 
 ## Info
 
- Successful Hackintosh build on a custom PC (currently 10.15.7 19H512). iGPU only, if you need a graphic card, buy AMD.
+ Successful Hackintosh build on a custom PC (currently 10.15.7 19H524). iGPU only, if you need a graphic card, buy AMD.
 
 Parts|Type|Links|
 --:|:--|:--|
@@ -23,12 +23,12 @@ Parts|Type|Links|
 
 ## Versions
 - BIOS F5b
-- AppleALC 1.5.8
+- AppleALC 1.5.9
 - IntelMausiEthernet 2.5.3d1
-- Lilu 1.5.1
-- OpenCore 0.6.7
-- VirtualSMC 1.2.1
-- WhateverGreen 1.4.8
+- Lilu 1.5.2
+- OpenCore 0.6.8
+- VirtualSMC 1.2.2
+- WhateverGreen 1.4.9
 
 ## Working
 - :white_check_mark: FileVault
