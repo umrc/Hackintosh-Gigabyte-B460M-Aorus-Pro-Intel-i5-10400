@@ -11,7 +11,7 @@
 
 ## Info
 
- Successful Hackintosh build on a custom PC (currently 10.15.7 19H1030). iGPU only, if you need a graphic card, buy AMD.
+ Successful Hackintosh build on a custom PC (currently 10.15.7 19H1217). iGPU only, if you need a graphic card, buy AMD.
 
 Parts|Type|Links|
 --:|:--|:--|
