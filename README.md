@@ -22,13 +22,13 @@ Parts|Type|Links|
 **PSU**|FSP HyperM 700W|[Link](https://www.fsp-europe.com/hyper-m-500600700w/)
 
 ## Versions
-- BIOS F5b
-- AppleALC 1.6.1
+- BIOS F5
+- AppleALC 1.6.2
 - IntelMausiEthernet 2.5.3d3
-- Lilu 1.5.3
-- OpenCore 0.7.0
-- VirtualSMC 1.2.4
-- WhateverGreen 1.5.0
+- Lilu 1.5.4
+- OpenCore 0.7.1
+- VirtualSMC 1.2.5
+- WhateverGreen 1.5.1
 
 ## Working
 - :white_check_mark: FileVault
